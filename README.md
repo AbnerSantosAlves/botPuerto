@@ -62,22 +62,6 @@ servidores, responder comandos e automatizar tarefas dentro do Discord.
 
 <hr>
 
-<h2>📂 Estrutura do Projeto</h2>
-
-<pre>
-botPuerto/
-│
-├── commands/        # Comandos do bot
-├── events/          # Eventos do Discord
-├── utils/           # Funções auxiliares
-│
-├── main.py          # Arquivo principal do bot
-├── requirements.txt # Dependências do projeto
-└── README.md
-</pre>
-
-<hr>
-
 <h2>⚙️ Como executar o bot</h2>
 
 <h3>1️⃣ Clonar o repositório</h3>
